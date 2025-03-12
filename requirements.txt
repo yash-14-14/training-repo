@@ -1,1 +1,2 @@
 benchling-sdk==1.5.1
+benchling-api-client==2.0.76
